@@ -87,7 +87,8 @@ SO THAT my company can compete with other e-commerce companies
     
   
   # Contributions 
-   
+   * Special Thanks to a @Chris Champness advising me how to stop a route from listing 
+
    * Special Thanks to a @djdyer            David Dyer
    *  Reference for help for a update product : TA
    *  Reference for Help about router pu product: Tutor
