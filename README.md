@@ -11,7 +11,7 @@
   * [Description](#Description)
   * [Installation](#Installation)
   * [Usage](#Tests)
-  
+  * [Screenshot](#Screenshot )
  * [License](#License)
 
   * [Questions](#Questions)
@@ -46,6 +46,9 @@ npm start [To start the server] and navigate to http://localhost:3001*/ in your 
 
 
 
+## Screenshot
+
+<img width="867" alt="Screen Shot 2021-11-24 at 11 48 58 AM" src="https://user-images.githubusercontent.com/85656320/143280828-b3f9d23e-1cd5-4e5b-97e2-ad514c99cbc3.png">
 
 
 
