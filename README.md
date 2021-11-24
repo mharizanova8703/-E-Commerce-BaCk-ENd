@@ -1,1 +1,93 @@
 # -E-Commerce-BaCk-ENd
+
+
+ # Description  
+ 
+ This project is about building the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application creates a database using mySQL with models and associations. API Routes are derived to perform RESTful CRUD operations using sequelized models and the same is being tested in Insomnia.
+
+
+  ## Table of Contents
+
+  * [Description](#Description)
+  * [Installation](#Installation)
+  * [Usage](#Tests)
+  
+ * [License](#License)
+
+  * [Questions](#Questions)
+  * [Contrubtions](#Contributions)
+  * [Issues](#Contributions)
+
+ 
+ 
+# Installation 
+
+Dependencies/Packages
+
+* Node.js
+* Express.js
+* MySQL2
+* Sequelize
+* dotenv
+* Git clone the repo from Github
+
+Navigate to the folder and run npm install in your terminal.
+
+Be sure to include your MySQL user/password information in .env file.
+
+Database Connection
+
+mysql -u root -p
+source schema.sql
+npm run seed [To seed the file]
+Run the app
+
+npm start [To start the server] and navigate to http://localhost:3001*/ in your browser OR Use Insomnia Core
+
+
+
+
+
+
+
+# Demo Video 
+
+
+
+
+
+
+
+
+ # User Story
+
+```md
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
+```
+
+# License 
+![Github license](https://img.shields.io/badge/ISC-License%20-pink)
+    
+  
+  # Contributions 
+   
+   * Special Thanks to a @djdyer            David Dyer
+   *  Reference for help for a update product : TA
+   *  Reference for Help about router pu product: Tutor
+   *  Building  more knowledge  through : https://dzone.com/articles/creating-a-rest-api-handling-post-put-and-delete-r
+   *  Building  more knowledge  through : https://stackoverflow.com/questions/61443178/express-router-delete-not-found
+   
+   
+   
+ #Issue 
+  
+  For more questions contact me via email:mhariznova@yahoo.com
+  
+  
+HAPPY CODING!
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+  
+  
